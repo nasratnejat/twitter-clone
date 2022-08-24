@@ -1,4 +1,4 @@
-# Live Preview 
+# Live Preview  
 https://twitter-clone-8a807.firebaseapp.com/
 
 # Getting Started with Create React App
